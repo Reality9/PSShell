@@ -33,6 +33,3 @@ PSShell uses the System.Management.Automation namespace, so make sure you have t
 
 Just run the executables.
 
-### TODO:
-
-* Test. This hasn't been thoroughly tested, please report any issues.
